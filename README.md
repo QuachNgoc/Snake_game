@@ -1,2 +1,3 @@
 # Snake_game
-# data to keep high score.
+# using keyboard arrow to move
+# data.txt to keep high score.
